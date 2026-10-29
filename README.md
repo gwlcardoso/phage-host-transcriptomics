@@ -31,7 +31,7 @@ The workflow is not fully automated, and some steps require manual execution and
 5. Quantification: Gene-level read counting (featureCounts)
 6. Temporal Expression Analysis of Phage Genes: Identification and characterization of phage gene expression dynamics across infection time points (custom Python scripts)
 7. Differential Expression Analysis: Statistical analysis (DESeq2)
-8. Functional Analysis: Pathway and enrichment analysis ( GO, KEGG - ClusterProfiler)
+8. Functional Analysis: Pathway and enrichment analysis ( GO, KEGG)
 
 ## Usage
 
