@@ -41,4 +41,4 @@ There is no single command to run the full analysis. Instead, scripts should be 
 
 Guilherme Wenceslau
 
-MSc candidate in Bioinformatics – University of São Paulo (USP)
+Bioinformatician – University of São Paulo (USP)
